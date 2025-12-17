@@ -2,7 +2,7 @@
   <img 
     src="https://res.cloudinary.com/dsj0vaews/image/upload/v1765979167/zynqdqnpgakw1oaqtoqz.gif" 
     alt="DevPath Community Banner"
-    width="100%"
+    width="50%"
   />
 </p>
 
