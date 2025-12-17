@@ -14,7 +14,7 @@
   />
 </p>
 
-<h1 align="center">DevPath 🚀</h1>
+<h1 align="center">DevPath</h1>
 
 <p align="center">
   Building developers through collaboration, real projects, and strong fundamentals.
