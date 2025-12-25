@@ -8,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://res.cloudinary.com/dsj0vaews/image/upload/v1765979522/dne26pbaba5alhmxejfr.jpg" 
+    src="[https://res.cloudinary.com/dsj0vaews/image/upload/v1765979522/dne26pbaba5alhmxejfr.jpg](https://res.cloudinary.com/dsj0vaews/image/upload/e_background_removal/f_png/v1765979522/dne26pbaba5alhmxejfr.jpg)" 
     alt="DevPath Logo"
     width="120"
   />
